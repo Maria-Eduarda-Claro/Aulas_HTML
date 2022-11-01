@@ -1,0 +1,48 @@
+html {
+  background-color: #f6f6f6;
+}
+
+.form-principal {
+  width: 955px;
+  margin: -1px auto 10px;
+  background-color: #f6f6f6;
+  font-family: cursive;
+}
+
+header {
+  width: 955px;
+  height: 95px;
+}
+
+h1 {
+  color: rgb(213, 157, 84);
+  font-size: 32px;
+}
+
+h3 {
+  color: rgb(213, 157, 84);
+  font-size: 25px;
+}
+
+p,
+li {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 0.9em;
+  color: #555;
+  line-height: 1.8;
+}
+
+h2 {
+  color: rgb(213, 157, 84);
+}
+
+.class {
+  width: 60%;
+  float: left;
+}
+.aside {
+  width: 35%;
+  float: left;
+  margin-left: 5%;
+}
